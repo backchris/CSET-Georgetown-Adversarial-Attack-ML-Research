@@ -1,6 +1,6 @@
 # CSET-Georgetown-Adversarial-Attack-ML-Research
 
-This repo contains all things pertinent to a semester-long ML-security research project I did as a part of my internship at the Center for Security and Emerging Technology at Georgetown. The code for training the ML victim models and adversarial attack models were all written in .pynb files. My research reports can be found in the folder titled "Final Report." In this repo, the training datasets and python scripts I used can also be found. 
+This repo contains all things pertinent to a semester-long ML security research project I did as a part of my internship at the Center for Security and Emerging Technology at Georgetown. The code for training the ML victim models and adversarial attack models were all written in .pynb files. My research reports can be found in the folder titled "Final Report." In this repo, the training datasets and python scripts I used can also be found. 
 
 Below are a few screenshots from the final presentation with a brief overview of project scope.
 
